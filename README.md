@@ -38,7 +38,7 @@
         <h2>im learning coding using java script</h2>
         <ul>
             <li>Git and GitHub</li>
-            <li>[my dream is to open a foundation that can help single mother's.i also want to creat an app to wear people can help and also advise them.
+            <li>[my dream is to open a foundation that can help single mother's.i also want to creat an app to wear people can help and also advise them.]
         </ul>
     </div>
 
